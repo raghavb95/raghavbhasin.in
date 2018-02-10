@@ -9,7 +9,7 @@ projects: true
 description: "Personal Project : Khwaab"
 ---
 
-![Logo](.../assets/images/projects/khwaab.png)
+![Logo](../assets/images/projects/khwaab-logo.png)
 
 Khwaab is an initiative by **Teach For India** Fellows which envisions financial independence for women by imparting livelihood skills.
 
