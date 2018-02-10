@@ -23,10 +23,6 @@ Khwaab is an initiative by **Teach For India** Fellows which envisions financial
 - Instagram Feed (Initial Phase)
 - Facebook Page (Planning Phase)
 
-##Planned
-<div class="spoiler">
-<p>
-- Email Marketing (Deploying systems in place)
+### Planned
+- Email Marketing (Systems deployed in place)
 - eCommerce Store (Development initiated)
-</p>
-</div>
