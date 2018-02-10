@@ -17,7 +17,7 @@ Khwaab is an initiative by **Teach For India** Fellows which envisions financial
 
 ## Completed
 - Photo Shoots (x2 Complete)
-- [Lead Generation Site](raghavb95.github.io/ourKhwaab/archive/1/index.html) (Domain Parked + Forms(Subscription + Conversational))
+- [Lead Generation Site](http://raghavb95.github.io/ourKhwaab/archive/1/index.html) (Domain Parked + Forms(Subscription + Conversational))
 
 ## Work in Progress
 - Instagram Feed (Initial Phase)
