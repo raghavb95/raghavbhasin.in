@@ -1,0 +1,34 @@
+---
+title: "myBooks"
+layout: post
+date: 2018-02-10 00:45
+tag:
+- books
+projects: true
+description: "myBooks is a commitment-project."
+---
+
+myBooks is a short series where I talk about books that I have read, to review and summarise them.
+It runs on [my blog](http://blog.raghavbhasin.in) under [#myBooks](http://blog.raghavbhasin.in/tagged/myBooks).
+
+---
+# Status Report
+
+## Books I've blogged about
+- Coming Soon.
+
+## Books I've read
+- Zero to One - Peter Thiel
+- Shoe Dog - Phil Knight
+- Rich Dad Poor Dad - Robert Kiyosaki
+- The 5 Second Rule - Mel Robbins
+- Peak Performance - Brad Stulberg and Steve Magness
+- Advancing Your Photography - Marc Silber
+- [The Subtle Art of Not Giving a F*ck - Mark Manson](<a target="_blank" href="https://www.amazon.in/gp/product/0062641549/ref=as_li_tl?ie=UTF8&camp=3638&creative=24630&creativeASIN=0062641549&linkCode=as2&tag=raghavb95-21&linkId=f95163237714b6f3a3fe5704e6d3a283">The Subtle Art of Not Giving a F*ck</a><img src="//ir-in.amazon-adsystem.com/e/ir?t=raghavb95-21&l=am2&o=31&a=0062641549" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />)
+- Make Your Own Bed -  Admiral William H. McRaven
+- The seven spiritual laws of success - Deepak Chopra
+
+## Work in Progress
+- I do what I do - Raghuram Rajan
+- Think and Grow Rich - Napolean Hill
+- Real artists don't starve - Jeff Coins
