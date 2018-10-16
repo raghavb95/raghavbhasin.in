@@ -7,34 +7,28 @@ permalink: /about/index.html
 
 > I'm passionate about the web, and the possibility to reshape the world.
 
-<p><span class="evidence">Thinking of something witty.</span></p>
+<p><span class="evidence">Currently in Stealth Mode. </span></p>
+<p>Working as a consultant for various companies with 
 
-<h2>Skills</h2>
-
+<h2>Focus Areas</h2>
 <ul>
-	<li>HTML5 and CSS3</li>
-	<li>Frameworks and Open Source Tools - BootStrap, WordPress</li>
-	<li>Javascript, PHP, MySQL - Elementary Level</li>
+	<li>Design</li>
+	<li>Web Development</li>
+	<li>Digital Marketing</li>
 </ul>
 
+<h2>Research Areas</h2>
+<ul>
+	<li>Markets</li>
+	<li>Causes</li>	
+	<li>The Future of Internet</li>
+</ul>
 
 <h2>Hobbies</h2>
-
 <ul>
+	<li>Reading</li>
 	<li>Photography</li>
 	<li>Film Making</li>
-	<li>Designing</li>
-</ul>
-
-
-<h2>Interests</h2>
-
-<ul>
-	<li>Web Technologies</li>
-	<li>Digital Marketing</li>
-	<li>Community Causes</li>
-	<li>Financial Markets</li>
-	<li>Blockchain (Cryptos)</li>
 </ul>
 
 <div class="breaker"></div>
