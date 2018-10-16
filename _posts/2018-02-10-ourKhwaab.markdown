@@ -1,9 +1,10 @@
 ---
 title: "Khwaab Welfare Trust"
 layout: post
-date: 2018-02-10 22:30
+date: 2018-10-17 03:54
 tag:
-- volunteer
+- work
+
 projects: true
 description: "Khwaab is a welfare trust which focuses on women empowerment and education. "
 ---
@@ -13,23 +14,22 @@ description: "Khwaab is a welfare trust which focuses on women empowerment and e
 Khwaab is an initiative by **Teach For India** Fellows which envisions financial independence for women by imparting livelihood skills.
 
 ---
-# My Responsibilities
 
-## Associate - Digital Media
+# Mini Projects
+## Web
+- Systems Setup - Domain, DNS, MX, Server, SSL 
+- Website and eCommerce Store development 
+- Digitization and Systems Expansion 
+- Monitoring and First Responder
+
 ## Photography
-- Product Photography, Portraits and Documentation.
-- Post Processing and Digital Library Management.
-
-## Web Management
-- Domain, DNS Management.
-- Server deployment and configuration.
-- Website and eCommerce store development.
-- Monitoring online infrastructure, and analysing data.
+- Product Photography
+- Urban Photography
+- Post Processing
+- Digital Asset Management
 
 ## Marketing
-- Ideation and Execution.
-- Social Media Marketing (Facebook and Instagram)
-- Email Marketing and lead generation.
-
-## Archived
-- [Coming Soon Site](http://raghavb95.github.io/ourKhwaab/archive/1/index.html)
+- Research and Analysis
+- Design and Creatives
+- Inbound Marketing
+- Digital Advertising

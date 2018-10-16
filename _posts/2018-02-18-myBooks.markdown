@@ -1,23 +1,24 @@
 ---
-title: "myBooks"
+title: "Personal : Read"
 layout: post
-date: 2018-02-10 00:45
+date: 2018-10-17 03:23
 tag:
-- books
+- personal,
 projects: true
-description: "myBooks is a commitment-project."
+description: "A curated list of things that I've read, and some that I recommened."
 ---
 
-myBooks is a short series where I talk about books that I have read, to review and summarise them.
-It runs on [my blog](http://blog.raghavbhasin.in) under [#myBooks](http://blog.raghavbhasin.in/tagged/myBooks).
+Here you can find a curated list of things that I've read, and some that I highly recommened.
+
+You can find all posts [here](http://blog.raghavbhasin.in/tagged/myBooks).
 
 ---
 # Status Report
 
-## Books I've blogged about
-- Coming Soon.
+## On The Blog
+1. [The Seven Spiritual Laws Of Success - Deepak Chopra](https://blog.raghavbhasin.in/post/173922213059/7laws)
 
-## Books I've read
+## Books I've Read
 1. Zero to One - Peter Thiel
 2. Shoe Dog - Phil Knight
 3. Rich Dad Poor Dad - Robert Kiyosaki
@@ -26,9 +27,10 @@ It runs on [my blog](http://blog.raghavbhasin.in) under [#myBooks](http://blog.r
 6. Advancing Your Photography - Marc Silber
 7. The Subtle Art of Not Giving a F*ck - Mark Manson
 8. Make Your Own Bed -  Admiral William H. McRaven
-9. The Seven Spiritual Laws Of Success - Deepak Chopra
-
-## Work in Progress
-1. I Do What I Do - Raghuram Rajan
-2. Think and Grow Rich - Napolean Hill
-3. Real Artists Don't Starve - Jeff Coins
+9. Think and Grow Rich - Napolean Hill
+10. Crushing It - Gary Vaynerchuk
+11. I Do What I Do - Raghuram Rajan
+12. Real Artists Don't Starve - Jeff Coins
+13. Dual Momentum Investing - Gary Antonacci
+14. Measure What Matters - John Doerr
+15. Product Leadership - Richard Banfield
