@@ -1,11 +1,20 @@
 ---
-title: "Personal : Read"
+title: "Bibliophilia"
 layout: post
 date: 2018-10-17 03:23
 tag:
 - personal,
 projects: true
 description: "A curated list of things that I've read, and some that I recommened."
+---
+In a world where we overschedule our days and complain constantly about being too busy; we keep up with hundreds of acquaintances but rarely see our best friends; we bombard ourselves with video clips and emails and instant messages; we even interrupt our interruptions.
+
+Books are uniquely suited to helping us change our relationship to the rhythms and habits of daily life in this world of endless connectivity. We can’t interrupt them; we can only interrupt ourselves while reading them. They speak to us, thoughtfully, one at a time. They demand our attention. And they demand that we briefly put aside our own beliefs and prejudices and listen to someone else’s. You can rant against a book, scribble in the margin, or even chuck it out the window. Still, you won’t change the words on the page.
+
+We all ask each other a lot of questions: “How did you sleep?” “Where did you go on your holidays?” But there’s one question I think we should ask of one another a lot more often, and that is: “What are you reading?”
+
+When we ask one another that, we sometimes discover the ways we are similar; sometimes the ways that we are different. “What are you reading?” isn’t a simple question when asked with genuine curiosity; it’s really a way of finding out, “Who are you now and who are you becoming?”
+
 ---
 
 Here you can find a curated list of things that I've read, and some that I highly recommened.
@@ -18,14 +27,14 @@ You can find all posts [here](http://blog.raghavbhasin.in/tagged/myBooks).
 ## On The Blog
 1. [The Seven Spiritual Laws Of Success - Deepak Chopra](https://blog.raghavbhasin.in/post/173922213059/7laws)
 
-## Books I've Read
+## Books I Recommened
 1. Zero to One - Peter Thiel
 2. Shoe Dog - Phil Knight
 3. Rich Dad Poor Dad - Robert Kiyosaki
 4. The 5 Second Rule - Mel Robbins
 5. Peak Performance - Brad Stulberg and Steve Magness
 6. Advancing Your Photography - Marc Silber
-7. The Subtle Art of Not Giving a F*ck - Mark Manson
+7. The Subtle Art of Not Giving a F*ck* - Mark Manson
 8. Make Your Own Bed -  Admiral William H. McRaven
 9. Think and Grow Rich - Napolean Hill
 10. Crushing It - Gary Vaynerchuk
@@ -34,3 +43,5 @@ You can find all posts [here](http://blog.raghavbhasin.in/tagged/myBooks).
 13. Dual Momentum Investing - Gary Antonacci
 14. Measure What Matters - John Doerr
 15. Product Leadership - Richard Banfield
+16. The H Factor of Personality - Lee Ashton
+17. The Communication Book - Mikael Krogerus & Roman Tschaeppeler
