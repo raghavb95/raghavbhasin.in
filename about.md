@@ -7,10 +7,8 @@ permalink: /about/index.html
 
 > I'm passionate about the web, and the possibility to reshape the world.
 
-<p><span class="evidence">Currently in Stealth Mode. </span></p>
-<p>Working as a consultant for various companies with 
-
-<h2>Focus Areas</h2>
+<p><span class="evidence">Currently in Stealth Mode.</span></p>
+<h2>Professional Focus</h2>
 <ul>
 	<li>Design</li>
 	<li>Web Development</li>
@@ -19,9 +17,9 @@ permalink: /about/index.html
 
 <h2>Research Areas</h2>
 <ul>
-	<li>Markets</li>
-	<li>Causes</li>	
-	<li>The Future of Internet</li>
+	<li>Financial Markets</li>
+	<li>The Future of Internet</li>	
+	<li>Causes</li>
 </ul>
 
 <h2>Hobbies</h2>
@@ -30,5 +28,4 @@ permalink: /about/index.html
 	<li>Photography</li>
 	<li>Film Making</li>
 </ul>
-
 <div class="breaker"></div>
