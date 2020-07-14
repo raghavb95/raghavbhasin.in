@@ -6,7 +6,7 @@ bio: 'I like to shoot, code, design and analyse.'
 external-image: false
 picture: 'assets/images/profile.jpg'
 
-url: https://raghavbhasin.in
+url: https://theraghavbhasin.com
 # your url: http://raghavb95.github.io
 
 permalink: /:title/
@@ -25,15 +25,15 @@ analytics-google: 'UA-59933281-2'
 disqus: false
 
 # if you don't have any of social below, comment the line
-facebook: raghavb95
-twitter: raghavb95
+facebook: theraghavbhasin
+twitter: theraghavbhasin
 # google: mygoogle
-instagram: raghavb95
+instagram: theraghavbhasin
 # pinterest: mypinterest
-linkedin: raghavb95
-youtube: raghavb95
+linkedin: theraghavbhasin
+youtube: theraghavbhasin
 # spotify: myspotify
-github: raghavb95
+github: theraghavbhasin
 # medium: medium
 
 # do you want a larger site? change the option below
